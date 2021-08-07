@@ -6,7 +6,7 @@ def call(map){
         agent any
 
         stages {
-            stage('Build') {
+            stage('Build-1) {
                 steps {
                     echo 'Building..'
                 }
